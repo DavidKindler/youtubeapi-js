@@ -1,6 +1,8 @@
 # youtubeapi-js
 Youtube javascript API
+
 Works with iframe embedded youtube videos.
+
 Provides an event handler for Play, Pause and Finish states.
 
 ## Install
